@@ -1,0 +1,55 @@
+.modal-backdrop.in {
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+.wrap {
+    text-align: center;
+}
+
+ul {
+    font-weight: bold;
+}
+
+.listwrap {
+    margin-top: 20px;
+    text-align: left;
+}
+
+@media only screen and (min-width: 600px) {
+    .listwrap {
+        text-align: left;
+        width: 40%;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+  }
+
+.me {
+    margin-top: 20px;
+}
+
+.buttons {
+    white-space: nowrap;
+}
+
+.socialbuttons > *{
+    margin: 20px 10px 20px 10px;
+    padding-bottom: 10px;
+
+    font-size: 1.5em;
+}
+
+#previous {
+    display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#next {
+    display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+    color: aliceblue;
+}
