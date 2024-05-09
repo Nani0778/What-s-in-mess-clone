@@ -3,12 +3,12 @@
     "name": "WhatsInMess",
     "icons": [
       {
-        "src": "./images/whatsinmesslogo192X192.png",
+        "src": "./whatsinmesslogo192X192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/images/whatsinmesslogo.png",
+        "src": "/whatsinmesslogo.png",
         "type": "image/png",
         "sizes": "512x512"
       }
