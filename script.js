@@ -3,7 +3,7 @@ let messDict =[
     // Sunday
     [["Bread", "Butter", "Jam", "Chole Bhature", "Veg Upma", "Chutney", "Tea/Coffee/Milk"],
     ["Chapathi", "Chicken (Pepper / Kadai)", "Paneer Butter Masala", "Dal Dhadka", "Mint Pulao/Steamed Rice", "Rasam", "Poriyal", "Butter Milk", "Fryums", "Pickle"],
-    ["Kara Sev / Pakoda", "Tea/Coffee"],
+    ["Kara Sev / Pakoda / Sweet corn", "Tea/Coffee"],
     ["Aloo Paratha", "Aloo gobi curry", "Steamed Rice", "Moong Dal Tadka", "Karakozhambu", "Kootu", "Rasam", "Fryums", "Veg salad", "Milk", "Seasonal Fruit", "Ice cream / Cone Ice cream", "Non-Veg Gravy"]],
     // Monday
     [["Butter", "Bread", "Jam", "Pongal", "Vada", "Chutney", "Sambhar", "Chapati", "White Peas Masala", "Tea/Coffee/Milk"], 
